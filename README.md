@@ -8,5 +8,5 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://zapodaj.net/46c2d043e95e8.png.html" />][webdevplaylist]
+[<img align="left" alt="Java" width="26px" src="https://zapodaj.net/46c2d043e95e8.png" />][webdevplaylist]
 
