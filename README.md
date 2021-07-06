@@ -11,4 +11,4 @@
 <img align="left" alt="Java" width="26px" src="https://zapodaj.net/images/75539c7eeae4f.png" />
 <img align="left" alt="Java" width="38px" src="https://zapodaj.net/images/19ce87b85b4c9.png" />
 <img align="left" alt="Java" width="26px" src="https://zapodaj.net/images/051c85a3cb1a7.jpg" />
-<img align="left" alt="Java" width="38px" src="https://zapodaj.net/images/2affe01ea6f1e.png" />
+<img align="left" alt="Java" width="40px" src="https://zapodaj.net/images/2affe01ea6f1e.png" />
