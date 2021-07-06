@@ -1,6 +1,6 @@
-### Hello, I'm Michał 👋
+## Hello, I'm Michał 👋
 
-## I'd like to become an automation tester in the future.
+### I'd like to become an automation tester in the future.
 
 - 🌱 I’m currently learning everything 🤣 
 - 🌱 I love listening to podcasts connected with programming (for example DevTalk)
