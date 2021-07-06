@@ -8,4 +8,4 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="150px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi-nwyPIq1C4b49wz08KL3jyBXdrnHww0rag&usqp=CAU" />
+[<img align="left" alt="Java" width="26px" src="https://zapodaj.net/images/22219e0523db3.png" />][webdevplaylist]
