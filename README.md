@@ -9,4 +9,4 @@
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="26px" src="https://zapodaj.net/images/22219e0523db3.png" />
-<img align="left" alt="Java" width="36px" src="https://zapodaj.net/images/ca16c2d73c965.png" />
+<img align="left" alt="Java" width="38px" src="https://zapodaj.net/images/ca16c2d73c965.png" />
