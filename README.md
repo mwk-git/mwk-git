@@ -6,8 +6,6 @@
 - 🌱 I love listening to podcasts connected with programming (for example DevTalk)
 - 🌱 My goals for 2021 are: to get the first job as a software tester and to further practice my skills in Java and learn the basics of REST Assured, JMeter and Selenium Webdriver really well
 
-<br />
-
 ### Languages and Tools:
 
-<br />
+
