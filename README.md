@@ -35,20 +35,13 @@ My strengths are perceptiveness, analytical thinking, inquisitiveness and even t
 * 2021.03.31 - [Fundaments of Java](https://strefakursow.pl/kursy/programowanie/fundamenty_jezyka_java.html)
 * 2021.05.13 - [Test automation - truth and myths](http://successpoint.pl/strefa_testera_automatyzacja_testowania_2020)
 * 2021.05.14 - [Selenium WebDriver + C# - Introduction to writing stable tests](http://successpoint.pl/strefa_testera_automatyzacja_testowania_2020#ii-dzie%C5%84---1-warsztat---selenium-webdriver-+-c)
-* 2021.06.13 - Fundaments of manual software testing [https://www.udemy.com]
-* 2021.06.13 - Fundaments of manual software testing [https://www.udemy.com]
-* 2021.09.08 - How to report bugs and features [https://tydzienprogramisty.pl]
-* 2021.09.08 - How to report bugs and features [https://tydzienprogramisty.pl]
-* 2021.09.09 - Basics of Postman - a tool for testers and programmers [https://tydzienprogramisty.pl]
-* 2021.09.09 - Basics of Postman - a tool for testers and programmers [https://tydzienprogramisty.pl]
-* 2021.10.13 - The power of words - effective communication, in particular providing feedback [https://www.testwarez.pl]
-* 2021.10.13 - The power of words - effective communication, in particular providing feedback [https://www.testwarez.pl]
-* 2021.12.06 - Mega Sekurak Hacking Party [https://securitum.pl]
-* 2021.12.06 - Mega Sekurak Hacking Party [https://securitum.pl]
-* 2022.02.12 & 2022.02.19 - Test automation with Cypress [https://testuj.pl]
-* 2022.02.12 & 2022.02.19 - Test automation with Cypress [https://testuj.pl]
-* 2022.04.24 - Jira from scratch - project management [https://www.udemy.com]
-* 2022.04.24 - Jira from scratch - project management [https://www.udemy.com]
-* 2022.04.28 - Postman from scratch - REST API testing [https://www.udemy.com]
+* 2021.06.13 - [Fundaments of manual software testing](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
+* 2021.09.08 - [How to report bugs and features](https://tydzienprogramisty.pl/wydarzenie/data-science-warsztaty/)
+* 2021.09.09 - [Basics of Postman - a tool for testers and programmers](https://tydzienprogramisty.pl/wydarzenie/sobota-z-programowaniem-warsztaty/) 
+* 2021.10.13 - [The power of words - effective communication, in particular providing feedback](https://testwarez.pl/event/slow-moc-sprawcza-czyli-o-skutecznej-komunikacji-ze-szczegolnym-uwzglednieniem-feedbacku)
+* 2021.12.06 - [Mega Sekurak Hacking Party](https://hackingparty.pl/wydarzenia/6-12-2021/)
+* 2022.02.12 & 2022.02.19 - [Test automation with Cypress](https://testuj.pl/karta-szkolenia/automatyzacja-testow-w-cypress)
+* 2022.04.24 - [Jira from scratch - project management](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami/)
+* 2022.04.28 - [Postman from scratch - REST API testing](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
 
 # Books
