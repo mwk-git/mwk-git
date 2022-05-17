@@ -45,3 +45,6 @@ My strengths are perceptiveness, analytical thinking, inquisitiveness and even t
 * 2022.04.28 - [Postman from scratch - REST API testing](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
 
 # Books
+*[Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d)
+*[Podróż przez świat testowania](https://www.funwithbugs.com/)
+
