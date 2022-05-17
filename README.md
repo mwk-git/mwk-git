@@ -8,3 +8,9 @@ My strengths are perceptiveness, analytical thinking, inquisitiveness and even t
 # Programming languages
 * Java
 * JavaScript
+
+# Testing frameworks
+* Cypress
+* Nightwatch.js
+
+# Tools
