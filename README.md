@@ -30,7 +30,8 @@ My strengths are perceptiveness, analytical thinking, inquisitiveness and even t
 * 2021.05.10 - ISTQB Certified Tester Foundation Level issued by International Software Testing Qualifications Board
 
 # Courses
-* 2021.01.06 - Java for beginners [https://strefakursow.pl]
+[Duck Duck Go](https://duckduckgo.com)
+* 2021.01.06 - [Java for beginners](https://strefakursow.pl)
 * 2021.01.06 - Java for beginners [https://strefakursow.pl]
 * 2021.03.21 - How to become a Java developer [https://strefakursow.pl]
 * 2021.03.21 - How to become a Java developer [https://strefakursow.pl]
