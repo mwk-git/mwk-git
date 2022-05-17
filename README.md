@@ -30,17 +30,11 @@ My strengths are perceptiveness, analytical thinking, inquisitiveness and even t
 * 2021.05.10 - ISTQB Certified Tester Foundation Level issued by International Software Testing Qualifications Board
 
 # Courses
-[Duck Duck Go](https://duckduckgo.com)
-* 2021.01.06 - [Java for beginners](https://strefakursow.pl)
-* 2021.01.06 - Java for beginners [https://strefakursow.pl]
-* 2021.03.21 - How to become a Java developer [https://strefakursow.pl]
-* 2021.03.21 - How to become a Java developer [https://strefakursow.pl]
-* 2021.03.31 - Fundaments of Java [https://strefakursow.pl]
-* 2021.03.31 - Fundaments of Java [https://strefakursow.pl]
-* 2021.05.13 - Test automation - truth and myths [http://successpoint.pl]
-* 2021.05.13 - Test automation - truth and myths [http://successpoint.pl]
-* 2021.05.14 - Selenium WebDriver + C# - Introduction to writing stable tests [http://successpoint.pl]
-* 2021.05.14 - Selenium WebDriver + C# - Introduction to writing stable tests [http://successpoint.pl]
+* 2021.01.06 - [Java for beginners](https://strefakursow.pl/kursy/programowanie/kurs_java_dla_zielonych.html)
+* 2021.03.21 - [How to become a Java developer](https://strefakursow.pl/kursy/programowanie/jak_zostac_developerem_java.html)
+* 2021.03.31 - [Fundaments of Java](https://strefakursow.pl/kursy/programowanie/fundamenty_jezyka_java.html)
+* 2021.05.13 - [Test automation - truth and myths](http://successpoint.pl/strefa_testera_automatyzacja_testowania_2020)
+* 2021.05.14 - [Selenium WebDriver + C# - Introduction to writing stable tests](http://successpoint.pl/strefa_testera_automatyzacja_testowania_2020#ii-dzie%C5%84---1-warsztat---selenium-webdriver-+-c)
 * 2021.06.13 - Fundaments of manual software testing [https://www.udemy.com]
 * 2021.06.13 - Fundaments of manual software testing [https://www.udemy.com]
 * 2021.09.08 - How to report bugs and features [https://tydzienprogramisty.pl]
