@@ -6,5 +6,5 @@ I became interested in quality assurance at the beginning of 2021. Since then, I
 My strengths are perceptiveness, analytical thinking, inquisitiveness and even the smallest details are important to me.
 
 # Programming languages
-*Java
-*JavaScript
+* Java
+* JavaScript
