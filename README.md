@@ -29,6 +29,31 @@ My strengths are perceptiveness, analytical thinking, inquisitiveness and even t
 * 2011.08.26 - Electronics Technician issued by Regional Examination Board in Poznań
 * 2021.05.10 - ISTQB Certified Tester Foundation Level issued by International Software Testing Qualifications Board
 
+# Courses
+* 2021.01.06 - Java for beginners [https://strefakursow.pl]
+* 2021.01.06 - Java for beginners [https://strefakursow.pl]
+* 2021.03.21 - How to become a Java developer [https://strefakursow.pl]
+* 2021.03.21 - How to become a Java developer [https://strefakursow.pl]
+* 2021.03.31 - Fundaments of Java [https://strefakursow.pl]
+* 2021.03.31 - Fundaments of Java [https://strefakursow.pl]
+* 2021.05.13 - Test automation - truth and myths [http://successpoint.pl]
+* 2021.05.13 - Test automation - truth and myths [http://successpoint.pl]
+* 2021.05.14 - Selenium WebDriver + C# - Introduction to writing stable tests [http://successpoint.pl]
+* 2021.05.14 - Selenium WebDriver + C# - Introduction to writing stable tests [http://successpoint.pl]
+* 2021.06.13 - Fundaments of manual software testing [https://www.udemy.com]
+* 2021.06.13 - Fundaments of manual software testing [https://www.udemy.com]
+* 2021.09.08 - How to report bugs and features [https://tydzienprogramisty.pl]
+* 2021.09.08 - How to report bugs and features [https://tydzienprogramisty.pl]
+* 2021.09.09 - Basics of Postman - a tool for testers and programmers [https://tydzienprogramisty.pl]
+* 2021.09.09 - Basics of Postman - a tool for testers and programmers [https://tydzienprogramisty.pl]
+* 2021.10.13 - The power of words - effective communication, in particular providing feedback [https://www.testwarez.pl]
+* 2021.10.13 - The power of words - effective communication, in particular providing feedback [https://www.testwarez.pl]
+* 2021.12.06 - Mega Sekurak Hacking Party [https://securitum.pl]
+* 2021.12.06 - Mega Sekurak Hacking Party [https://securitum.pl]
+* 2022.02.12 & 2022.02.19 - Test automation with Cypress [https://testuj.pl]
+* 2022.02.12 & 2022.02.19 - Test automation with Cypress [https://testuj.pl]
+* 2022.04.24 - Jira from scratch - project management [https://www.udemy.com]
+* 2022.04.24 - Jira from scratch - project management [https://www.udemy.com]
+* 2022.04.28 - Postman from scratch - REST API testing [https://www.udemy.com]
 
-* COurses
-* Books
+# Books
