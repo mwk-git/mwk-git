@@ -13,4 +13,11 @@ My strengths are perceptiveness, analytical thinking, inquisitiveness and even t
 * Cypress
 * Nightwatch.js
 
+# Technologies
+* CSS
+* GIT
+* HTML
+* NodeJS
+* SQL
+
 # Tools
