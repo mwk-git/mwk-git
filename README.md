@@ -21,3 +21,14 @@ My strengths are perceptiveness, analytical thinking, inquisitiveness and even t
 * SQL
 
 # Tools
+* Jira
+* Postman
+* Trello
+
+# Certificates
+* 2011.08.26 - Electronics Technician issued by Regional Examination Board in Poznań
+* 2021.05.10 - ISTQB Certified Tester Foundation Level issued by International Software Testing Qualifications Board
+
+
+* COurses
+* Books
