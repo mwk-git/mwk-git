@@ -46,5 +46,5 @@ My strengths are perceptiveness, analytical thinking, inquisitiveness and even t
 
 # Books
 * [ISTQB Certified Tester. Foundation Level (Roman, Stapp)](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d) 
-* [Podróż przez świat testowania](https://www.funwithbugs.com/)
-* [SQL w mgnieniu oka. Opanuj język zapytań w 10 minut dziennie](https://helion.pl/ksiazki/sql-w-mgnieniu-oka-opanuj-jezyk-zapytan-w-10-minut-dziennie-wydanie-v-ben-forta,sqlo5v.htm#format/d)
+* [Journey through the world of testing (Pawłowska, Pawlak)](https://www.funwithbugs.com/)
+* [SQL in 10 Minutes (Forta)](https://helion.pl/ksiazki/sql-w-mgnieniu-oka-opanuj-jezyk-zapytan-w-10-minut-dziennie-wydanie-v-ben-forta,sqlo5v.htm#format/d)
