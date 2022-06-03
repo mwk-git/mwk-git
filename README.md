@@ -44,6 +44,7 @@ My strengths are perceptiveness, analytical thinking, inquisitiveness and even t
 * 2022.04.24 - [Jira from scratch - project management](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami/)
 * 2022.04.28 - [Postman from scratch - REST API testing](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
 * 2022.05.26 - [Test automation in practice](https://atwpraktyce.pl/)
+* 2022.06.02 & 2022.06.03 - [soap! 2022](https://soapconf.com/)
 
 # Books
 * [ISTQB Certified Tester. Foundation Level (Roman, Stapp)](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d) 
